@@ -8,7 +8,7 @@ Notes and write-ups from my **TRYHACKME** learning paths — documenting my prog
 | Module | Description |
 |:--|:--|
 | [Pre-Security](Pre-Security) | Introduction to Cybersecurity, Networking, Windows/Linux Basics, Web Architecture |
-| [Cybersecurity-101](Cybersecurity-101) | Advanced Networking, Command Line, Cryptography, Exploitation Techniques, SIEM/Log analysis, Offensive & Defensive Tooling, SOC |
+| [Cybersecurity-101](Cybersecurity-101) | Advanced Networking, CLI, Cryptography, Exploitation, SIEM & Tooling, SOC |
 | [Security-Analyst](Security-Analyst) | In progress.. |
 | [Penetration-Tester](Penetration-Tester) | In progress.. |
 
