@@ -7,10 +7,10 @@ Notes and write-ups from my **TRYHACKME** learning paths — documenting my prog
 
 | Module | Description |
 |:--|:--|
-| [Pre-Security](Try-Hack-Me/Pre-Security) | Introduction to Cybersecurity, Networking, Windows/Linux basics, Web architecture |
-| [Cybersecurity-101](Try-Hack-Me/Cybersecurity-101) ||
-| [Security-Analyst](Try-Hack-Me/Security-Analyst) ||
-| [Penetration-Tester](Try-Hack-Me/Penetration-Tester) ||
+| [Pre-Security](Pre-Security) | Introduction to Cybersecurity, Networking, Windows/Linux basics, Web architecture |
+| [Cybersecurity-101](Cybersecurity-101) ||
+| [Security-Analyst](Security-Analyst) ||
+| [Penetration-Tester](Penetration-Tester) ||
 
 ---
 
