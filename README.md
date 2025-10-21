@@ -7,10 +7,10 @@ Notes and write-ups from my **TRYHACKME** learning paths — documenting my prog
 
 | Module | Description |
 |:--|:--|
-| [Pre-Security](Try-Hack-Me/Pre-Security) | Networking models, OSI/TCP, packets, and protocols |
-| [How The Web Works](Try-Hack-Me/Pre-Security//How-The-Web-Works) | Web architecture, HTTP, DNS, and website functionality |
-| [Linux Fundamentals](Try-Hack-Me/Pre-Security//Linux-Fundamentals) | Core Linux commands, permissions, processes, and users |
-| [Windows Fundamentals](Try-Hack-Me/Pre-Security//Windows-Fundamentals) | Windows internals, file system, registry, and PowerShell basics |
+| [Pre-Security](Try-Hack-Me/Pre-Security) | Introduction to Cybersecurity, Networking, Windows/Linux basics, Web architecture |
+| [Cybersecurity-101](Try-Hack-Me/Cybersecurity-101) ||
+| [Security-Analyst](Try-Hack-Me/Security-Analyst) ||
+| [Penetration-Tester](Try-Hack-Me/Penetration-Tester) ||
 
 ---
 
