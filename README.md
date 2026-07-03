@@ -26,11 +26,10 @@ Structured technical write-ups based on completed learning paths from TryHackMe,
 ## 🎯 Goals
 
 - Develop a strong understanding of core cybersecurity concepts
-- Strengthen Windows/Linux proficiency and deepen networking knowledge
+- Further strengthen proficiency in Windows, Linux, and networking
 - Gain hands-on experience with defensive security tools and SOC workflows
 - Practice documenting security findings through clear, structured write-ups
 
 ## 💬 Message to Readers
 Feedback and constructive criticism are always welcome as I continue improving and expanding this portfolio.
-
 
