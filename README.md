@@ -1,5 +1,5 @@
 # 🧠 Cybersecurity Portfolio
-Structured technical write-ups based on completed learning paths from TryHackMe, Hack The Box, and other cybersecurity training platforms. Each write-up includes key concepts, screenshots, and a concise takeaway.
+Structured technical write-ups based on completed rooms and modules from TryHackMe, Hack The Box, and other cybersecurity training platforms. Each write-up includes key concepts, screenshots, and a concise takeaway.
 
 ## 📂 TryHackMe
 
